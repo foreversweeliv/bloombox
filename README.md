@@ -24,7 +24,7 @@
 
 ## Figma проект
 
-[example.com](example.com)
+[**Figma Link**](https://www.figma.com/design/fm80kwvx5cs5SN2URljNLw/BloomBox--ortlyc-?node-id=0-1&t=Q04XpLjo16Bvuoy2-1)
 
 ## Початок роботи
 
